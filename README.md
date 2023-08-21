@@ -13,6 +13,7 @@ Users:
 - Can send friend requests to other users
 - Can accept friend requests from other users
 - Can login with existing Facebook credentials
+- Can save posts to their bookmarks
 
 Other:
 
