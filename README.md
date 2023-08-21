@@ -25,10 +25,10 @@ Other:
 
 ## 📸 Screenshots
 
-![](2023-08-21-17-43-56.png)
-![](2023-08-21-17-45-38.png)
-![](2023-08-21-17-46-15.png)
-![](2023-08-21-17-46-39.png)
+![Home Feed](/screenshots/homefeed.png)
+![User Profile](/screenshots/userprofile.png)
+![Full Post](/screenshots/fullpost.png)
+![Friends List](/screenshots/friendslist.png)
 
 ## 🔗 Links
 
