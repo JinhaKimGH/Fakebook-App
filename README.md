@@ -2,7 +2,7 @@
 
 A social media app that allows you to connect with your friends!
 
-This app can be run locally or accessed by this link!
+This app can be run locally or accessed by this [link](https://jinhakimgh.github.io/Fakebook-Frontend)!
 
 ## Features
 
