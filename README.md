@@ -4,6 +4,8 @@ A social media app that allows you to connect with your friends!
 
 This app can be run locally or accessed by this [link](https://jinhakimgh.github.io/Fakebook-Frontend)!
 
+NOTE: The backend may take some time to boot up when initially sending a request, after booting up, the backend requests should not take long.
+
 ## Features
 
 Users:
