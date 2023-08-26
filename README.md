@@ -6,6 +6,8 @@ This app can be run locally or accessed by this [link](https://jinhakimgh.github
 
 The frontend utilizes ReactJS, [react-router-dom](https://reactrouter.com/en/main) for client side routing, HTML, and CSS.
 
+The backend utilizes NodeJS, ExpressJS, [BcryptJS](https://www.npmjs.com/package/bcrypt) [MongooseJS](https://mongoosejs.com/docs/), and [PassportJS](https://www.passportjs.org/).
+
 NOTE: The backend may take some time to boot up when initially sending a request, after booting up, the backend requests should not take long.
 
 ## 🔗 Website Link
