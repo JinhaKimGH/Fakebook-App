@@ -43,6 +43,10 @@ Other:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinha-kim/)
 
+## Run Locally
+
+Instructions to run this app locally can be found in the [frontend](https://github.com/JinhaKimGH/Fakebook-Frontend/tree/frontend-branch) and [backend](https://github.com/JinhaKimGH/Fakebook-Backend/tree/backend-branch) submodules.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
